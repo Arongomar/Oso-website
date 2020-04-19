@@ -1,4 +1,4 @@
-@import url("main.css");
+@import url("Main.css");
 /*!
  * Bootstrap v4.3.1 (https://getbootstrap.com/)
  * Copyright 2011-2019 The Bootstrap Authors
@@ -2420,11 +2420,6 @@ fieldset:disabled a.btn {
   pointer-events: none;
 }
 
-.btn-primary {
-  color: #fff;
-  background-color: #007bff;
-  border-color: #007bff;
-}
 
 .btn-primary:hover {
   color: #fff;
@@ -2591,12 +2586,6 @@ fieldset:disabled a.btn {
 }
 
 
-
-.btn-danger:hover {
-  color: #fff;
-  background-color: #c82333;
-  border-color: #bd2130;
-}
 
 .btn-danger:focus, .btn-danger.focus {
   box-shadow: 0 0 0 0.2rem rgba(225, 83, 97, 0.5);
@@ -6563,6 +6552,7 @@ button.bg-danger:hover,
 button.bg-danger:focus {
   background-color: #bd2130 !important;
 }
+
 
 
 a.bg-light:hover, a.bg-light:focus,
