@@ -1,0 +1,89 @@
+@charset "utf-8";
+
+
+.btn-danger {
+    color: #fff;
+    background-color: #55B365;
+    border-color: #E5E6E9;
+}.band-hero {
+    background-color: #8B2425;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-image: url(../Images/wilderness_lake_wallpaper_background_25773.jpg);
+    background-size: cover;
+}
+.band-whoware {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-color: #7F7C7C;
+}
+.band-Footer {
+    background-color: #F0F0F0;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+h1   {
+	font-family: 'Open Sans Condensed', sans-serif;
+    color: #65E53F;
+}
+p   {
+	font-family: 'Open Sans Condensed', sans-serif;
+    color: #F3F3F3;
+}
+.container-fluid.band-Footer .container-fluid p {
+    color: #000000;
+}
+a:hover {
+    color: #000000;
+}
+
+a:link {
+    color: #000000;
+}
+.navbar.fixed-top.navbar-expand-lg.navbar-light.bg-light .navbar-brand {
+    margin-left: 10px;
+}
+.navbar-nav.ml-auto .nav-item .nav-link {
+    color: #E5E5E5;
+}
+.navbar.fixed-top.navbar-expand-lg.navbar-light.bg-light .navbar-brand {
+    color: #464646;
+    text-decoration: underline;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+}
+
+
+.navbar.fixed-top.navbar-expand-lg.navbar-light.bg-light {
+    padding-top: 20px;
+}
+
+
+.bg-light {
+    background-color: #59B452 !important;
+    opacity: 0.9;
+}
+.text-portfolio {
+    bottom: 10px;
+    left: 100px;
+    position: absolute;
+    background-color: #000000;
+    opacity: 0.9;
+}
+.text-portfolio2 {
+    bottom: 10px;
+    left: 140px;
+    position: absolute;
+    background-color: #000000;
+    opacity: 0.9;
+}
+.video-Aligment {
+    display: block;
+    margin-top: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    padding-top: auto;
+    padding-right: auto;
+    padding-bottom: auto;
+    padding-left: auto;
+}
