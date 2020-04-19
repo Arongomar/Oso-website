@@ -1,0 +1,66 @@
+@charset "utf-8";
+
+
+.band-hero {
+    background-color: #673435;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-image: url(../../../../Seccion04/Project%20Files/Practice/Images/wilderness_lake_wallpaper_background_25773.jpg);
+    background-size: cover;
+}
+.text-portfolio {
+    position: absolute;
+    padding-left: 0px;
+    left: 100px;
+    top: auto;
+    bottom: 50px;
+    background-color: #000000;
+    opacity: 0.9;
+}
+
+.band-whoweare {
+    background-color: #808080;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.band-Footer {
+    background-color: #E7E7E7;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+h1   {
+    color: #A1FF00;
+}
+p {
+    color: #FFFFFF;
+}
+.Text-first-para {
+    color: #F0F0F0;
+	font-family: 'Jomolhari', serif;
+}
+.Text-Bold {
+    color: #84FF60;
+    font-family: 'Jomolhari', serif;
+}
+.Text-footer {
+    color: #000000;
+}
+a:link {
+    color: #000000;
+}
+a:hover {
+    color: #000000;
+}
+
+.bg-light {
+    background-color: #84FF60 !important;
+	opacity: .9;
+}
+.navbar-nav.ml-auto .nav-item .nav-link {
+    color: #212121;
+}
+.navbar.fixed-top.navbar-expand-lg.navbar-light.bg-light.offset-xl-0.col-xl-12 {
+    border-bottom-width: 0;
+    margin-bottom: 0px;
+    padding-bottom: 20px;
+}
